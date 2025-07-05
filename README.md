@@ -22,3 +22,4 @@ Huvudfunktioner
 5. ./install_sa818.sh
 
 // Sa7bnb - Anders Isaksson
+OBS! Detta är under utvekling!!!
